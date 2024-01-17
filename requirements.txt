@@ -1,9 +1,5 @@
 pandas
 numpy
-pickle
-os.path
 streamlit
 plotly
-plotly.colors
 PIL
-pathlib
