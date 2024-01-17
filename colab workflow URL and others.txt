@@ -1,9 +1,0 @@
-https://bard.google.com/chat/8b06173299fe6afb
-https://chat.openai.com/c/3737ef99-7033-4722-884d-cde40a1e2bb0
-https://www.google.com/search?q=plotly+add+trace+on+top&rlz=1C1FKPE_enIN983IN983&oq=plotly+add+trace+on+top&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABDINCAEQABiGAxiABBiKBTINCAIQABiGAxiABBiKBTINCAMQABiGAxiABBiKBdIBCDQ4NzdqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8
-https://stackoverflow.com/questions/58278444/how-do-i-control-which-trace-plots-on-top-with-plotly
-https://www.google.com/search?q=go.Scattergl&rlz=1C1FKPE_enIN983IN983&sourceid=chrome&ie=UTF-8
-https://github.com/plotly/plotly.py/issues/2345
-https://colab.research.google.com/drive/1wwYBy_zKAwwb-Xr36jg2NgPy_gi_O6x5?authuser=0#scrollTo=ezQdHzCdBZDE
-https://www.google.com/search?q=google&rlz=1C1FKPE_enIN983IN983&oq=google&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMhgIARAuGEMYgwEYxwEYsQMY0QMYgAQYigUyBggCECMYJzIGCAMQRRg8MgYIBBBFGEEyBggFEEUYPDIGCAYQRRhBMgYIBxBFGEHSAQgxMzM1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8
-https://chromewebstore.google.com/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko
