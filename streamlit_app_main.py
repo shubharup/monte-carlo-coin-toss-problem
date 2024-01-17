@@ -67,7 +67,7 @@ if st.session_state['intro']:
         st.write("True Value of $p$:", actual)
         st.write("The percent error between your estimation and the true value is:", round(diff_percent,3), "%")
 
-converge = pd.concat([converge, pd.DataFrame([[iterations, estimated, diff_percent]], columns=converge.columns)], ignore_index=True)
+converge = pd.concat([converge, pd.DataFrame([[iterations, estimated, diff_percent]])], ignore_index=True)
 
 def read_markdown_file(markdown_file):
     return Path(markdown_file).read_text()
