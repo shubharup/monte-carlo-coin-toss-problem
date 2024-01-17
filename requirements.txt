@@ -1,0 +1,10 @@
+pandas
+numpy
+random
+pickle
+os.path
+streamlit
+plotly
+plotly.colors
+PIL
+pathlib
